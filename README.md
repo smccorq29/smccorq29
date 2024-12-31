@@ -1,8 +1,8 @@
 # SeanMccorquodale
 
-# Hi, I'm Sean McCorquodale 👋
-👨‍💻 4th-Year Computer Science Student 
-🎓 Studying at Western University | Expected Graduation: April 2025  
+## Hi, I'm Sean McCorquodale 👋
+- 👨‍💻 4th-Year Computer Science Student.
+- 🎓 Studying at Western University | Expected Graduation: April 2025  
 
 ## About Me
 - 🌌 I'm currently working on a thesis titled **"Vision Language Model to Identify Candidate Star Clusters"**.
@@ -23,4 +23,3 @@
 - 🌍 I grew up in Burlington, Ontario, and I'm a lifelong fan of the Toronto Maple Leafs!
 - 🔭 I have develloped a deep love for **astronomy**.
 
-![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
