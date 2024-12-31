@@ -16,7 +16,7 @@
 
 ## Let's Connect
 - 📫 Email: [seanmccorquodale03@gmail.com](mailto:seanmccorquodale03@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/sean-mccorquodale](https://linkedin.com/in/sean-mccorquodale)
+- 💼 LinkedIn: [linkedin.com/in/sean-mccorquodale](www.linkedin.com/in/sean-mccorquodale-72231a1a2)
 
 ## Fun Facts
 - 🌍 I grew up in Burlington, Ontario, and I'm a lifelong fan of the Toronto Maple Leafs!
