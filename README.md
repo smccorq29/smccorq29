@@ -7,7 +7,6 @@
 ## About Me
 - 🌌 I'm currently working on a thesis titled **"Vision Language Model to Identify Candidate Star Clusters"**.
 - 📊 My experience includes creating **stock sentiment analysis apps**, working with **large datasets**, and exploring the **intersection of AI and astronomy**.
-- 🌱 Always learning: I'm diving deeper into **RNNs, LSTMs**, and **cloud-based databases**.
 
 ## Skills
 - **Programming Languages:** Python, Java, PHP, SQL, C, C++
@@ -21,5 +20,5 @@
 
 ## Fun Facts
 - 🌍 I grew up in Burlington, Ontario, and I'm a lifelong fan of the Toronto Maple Leafs!
-- 🔭 I have develloped a deep love for **astronomy**.
+- 🔭 I have develloped a deep love for astronomy.
 
