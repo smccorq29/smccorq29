@@ -5,7 +5,7 @@
 - 🎓 Studying at Western University | Expected Graduation: April 2025  
 
 ## About Me
-- 🌌 I'm currently working on a thesis titled **"Vision Language Model to Identify Candidate Star Clusters"**.
+- 🌌 I'm currently working on a thesis to determine if **"Vision Language Models can be used to Identify Candidate Star Clusters"**.
 - 📊 My experience includes creating **software applications**, working with **large datasets**, and exploring the **intersection of AI and astronomy**.
 
 ## Skills
